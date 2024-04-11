@@ -2,9 +2,9 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Screenshots from Flipper for profiling app performance:
 
-![Screenshot 1](../SocialMedia_App/src/assets/ReadMeImages/Screenshot%20(2).png)
+![Screenshot 1](./src/assets//ReadMeImages/Screenshot%20(2).png)
 
-![Screenshot 2](../SocialMedia_App/src/assets/ReadMeImages/Screenshot%20(3).png)
+![Screenshot 2](./src/assets/ReadMeImages/Screenshot%20(3).png)
 
 
 # Getting Started
