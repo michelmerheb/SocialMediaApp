@@ -22,8 +22,9 @@ export default function SettingsScreen() {
                     <Ionicons name={option.icon} size={24} color="white" style={styles.iconStyle}/>
                     <Text style={styles.settingsButtonText}>{option.name}</Text>
                 </View>
-            </TouchableOpacity>
+            </TouchableOpacity>       
         ))}
+
 
       </View>
     );
